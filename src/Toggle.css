@@ -1,0 +1,15 @@
+/* Dynamic Classes ( Without Array ) */
+
+.red
+{
+    background-color: red;
+    color: white;
+    margin: 50px;
+}
+.green
+{
+    background-color: green;
+    color: white;
+    margin: 50px;
+}
+

@@ -2,11 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import DynamicClass from './DynamicClass';
+import MulDynamicClass from './MulDynamicClass';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <DynamicClass />
+    <MulDynamicClass />
   </React.StrictMode>,
   document.getElementById('root')
 );
